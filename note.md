@@ -5,3 +5,11 @@ CSS의 약자 : Cascading Style Sheets
 
 CSS는 많은 작업을 절약합니다.
 -> 여러 웹 페이지의 레이아웃을 한꺼번에 제어 할 수 있습니다.
+
+2. CSS 구조
+CSS 사용 방법
+```css
+h2{
+    font-siz:12px;
+}
+```
